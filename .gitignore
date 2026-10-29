@@ -2,3 +2,11 @@
 .env
 .env.*
 !.env.example
+
+# Build outputs and KLEE run links
+*.bc
+klee-last
+
+# Python
+__pycache__/
+.venv/

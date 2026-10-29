@@ -5,7 +5,7 @@ Use an LLM to generate KLEE drivers for complex data structures.
 
 **This week:**
 
-- Start from the `RequestFrame` PoC (`complex_data_structure_symbolic_driver`).
+- Start from the `RequestFrame` PoC ([`complex-data-structure-poc/`](complex-data-structure-poc/)).
 - Write a script that:
   - Takes a small JSON spec (data structure shape, sink function name).
   - Calls the LLM to generate a KLEE driver
