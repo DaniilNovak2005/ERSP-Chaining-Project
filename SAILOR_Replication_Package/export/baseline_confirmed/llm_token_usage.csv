@@ -1,0 +1,13 @@
+Baseline,Project,Model,Input_tokens_M,Output_tokens_M,Total_tokens_M,Cost_USD,Wall_clock_h,Status
+SAILOR-GPT5,binutils_b2bc71a_vul,GPT-5,,,186.0,,160.8,complete
+SAILOR-GPT5,curl_2eebc58_vul,GPT-5,,,75.1,,67.9,complete
+SAILOR-GPT5,libpng_747dd02_vul,GPT-5,,,24.0,,18.4,complete
+SAILOR-GPT5,libtiff_f324415_vul,GPT-5,,,39.1,,300.9,complete
+SAILOR-GPT5,libxml2_e334a9d_vul,GPT-5,,,320.7,,225.1,complete
+SAILOR-GPT5,mupdf_21fb0a2b_vul,GPT-5,,,122.3,,103.0,complete
+SAILOR-GPT5,openssl_67b5686b_vul,GPT-5,,,237.7,,200.1,complete
+SAILOR-GPT5,sqlite_0f08d958_vul,GPT-5,,,540.1,,910.6,complete
+B4,binutils_b2bc71a_vul,GPT-5,,,731.28,,0.0,complete
+B4,libpng_747dd02_vul,GPT-5,,,14.96,,0.0,complete
+B4,libtiff_f324415_vul,GPT-5,,,22.29,,0.0,complete
+B4,libxml2_e334a9d_vul,GPT-5,,,48.92,,0.0,complete
